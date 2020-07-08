@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidNetCommunicationClientActivity\app\libs\eneter-messaging-android-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68710e7a5fcd0637ab8904a9e8b2efe3776067ce">
+        <dex dex="C:\AndroidNetCommunicationClientActivity\app\build\intermediates\pre-dexed\debug\eneter-messaging-android-7.0.1_cea39b941f8a15e8e293bdd345ce9e943ebeaaa5.jar" />
+    </item>
+
+</items>
